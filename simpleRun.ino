@@ -14,7 +14,7 @@ void setup()
   lcd.print("no of objects:");
 
 
-  if( y == true){
+  while( y == true){
  
     lcd.setCursor(0,1);
   lcd.print("   ");
